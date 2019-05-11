@@ -1,0 +1,18 @@
+/* Titulo */
+@import url('https://fonts.googleapis.com/css?family=Artifika');
+
+/* Cuerpo */
+@import url('https://fonts.googleapis.com/css?family=Ubuntu');
+/* font-family: 'Ubuntu', sans-serif; */
+
+*{
+    box-sizing: border-box;
+}
+
+html, body{
+    margin: 0;
+    padding: 20px 0;
+    font-family: 'Artifika', serif;
+    background: #fad284;
+    padding-bottom: 35px;
+}

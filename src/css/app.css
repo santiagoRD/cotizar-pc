@@ -1,0 +1,17 @@
+.app__contenedor{
+    width: 70%;
+    margin: 0 auto;
+    padding: 0;
+    background: tomato;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+}
+
+.app__contenedor-form{
+    background: rgb(255, 116, 92);
+    width: 600px;
+    margin-bottom: 35px;
+}
+
